@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/iamvabbyy" target="blank"><img src="https://img.shields.io/twitter/follow/iamvabbyy?logo=twitter&style=for-the-badge" alt="iamvabbyy" /></a> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ivabby](https://github.com/ivabby)
 
-- 💬 Ask me about **React, Java, Spring, Spring Boot**
+- 💬 Ask me about **Java, Spring, Spring Boot**
 
 - 📫 How to reach me **vaibhavsingh100070@gmail.com**
 
